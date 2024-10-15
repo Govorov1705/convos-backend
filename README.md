@@ -9,6 +9,8 @@ Backend приложения **Convos** для общения.
 - Django REST Framework 3.15.2
 - Channels 4.1.0
 - Djoser 2.2.3
+- SQLite 3.42.0
+- Daphne 4.1.2
 
 ## Установка
 
